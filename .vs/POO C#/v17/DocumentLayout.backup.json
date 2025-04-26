@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Development\\C#\\POO C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Main\\Program.cs",
               "RelativeDocumentMoniker": "POO C#\\Main\\Program.cs",
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "POO C#\\Models\\Episode.cs",
               "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Episode.cs",
               "RelativeToolTip": "POO C#\\Models\\Episode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T23:57:08.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PodCast.cs",
               "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\PodCast.cs",
               "RelativeDocumentMoniker": "POO C#\\Models\\PodCast.cs",
-              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\PodCast.cs*",
-              "RelativeToolTip": "POO C#\\Models\\PodCast.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\PodCast.cs",
+              "RelativeToolTip": "POO C#\\Models\\PodCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T23:49:57.12Z",
               "EditorCaption": ""
