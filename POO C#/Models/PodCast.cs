@@ -1,4 +1,6 @@
-﻿public class PodCast
+﻿namespace POO_C_.Models;
+
+internal class PodCast
 {
     private List<Episode> episodes = new();
     public string Name { get; }

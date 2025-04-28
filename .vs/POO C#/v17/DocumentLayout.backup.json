@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Development\\C#\\POO C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\registerbandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\registerbandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\displaydetailsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\displaydetailsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\ratebandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\ratebandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\registeralbummenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\registeralbummenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\ratealbummenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\ratealbummenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\viewallbandsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\viewallbandsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\menus\\exitmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\menus\\exitmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\poo c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\poo c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|c:\\development\\c#\\poo c#\\poo c#\\interfaces\\iratable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D7C45-63DB-435D-AEA8-DD9D03B365F3}|POO C#\\POO C#.csproj|solutionrelative:poo c#\\interfaces\\iratable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +74,220 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Main\\Program.cs",
               "RelativeDocumentMoniker": "POO C#\\Main\\Program.cs",
               "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Main\\Program.cs",
               "RelativeToolTip": "POO C#\\Main\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:44:45.442Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Episode.cs",
-              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Episode.cs",
-              "RelativeDocumentMoniker": "POO C#\\Models\\Episode.cs",
-              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Episode.cs",
-              "RelativeToolTip": "POO C#\\Models\\Episode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "RegisterAlbumMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RegisterAlbumMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\RegisterAlbumMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RegisterAlbumMenu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\RegisterAlbumMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:57:08.217Z",
+              "WhenOpened": "2025-04-27T21:42:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RateAlbumMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RateAlbumMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\RateAlbumMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RateAlbumMenu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\RateAlbumMenu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:11:07.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterBandMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RegisterBandMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\RegisterBandMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RegisterBandMenu.cs*",
+              "RelativeToolTip": "POO C#\\Menus\\RegisterBandMenu.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:46:28.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DisplayDetailsMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\DisplayDetailsMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\DisplayDetailsMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\DisplayDetailsMenu.cs*",
+              "RelativeToolTip": "POO C#\\Menus\\DisplayDetailsMenu.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:22:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RateBandMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RateBandMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\RateBandMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\RateBandMenu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\RateBandMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewAllBandsMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\ViewAllBandsMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\ViewAllBandsMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\ViewAllBandsMenu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\ViewAllBandsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:40:45.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Band.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Band.cs",
+              "RelativeDocumentMoniker": "POO C#\\Models\\Band.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Band.cs*",
+              "RelativeToolTip": "POO C#\\Models\\Band.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:11:48.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "POO C#\\Models\\Album.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Album.cs",
+              "RelativeToolTip": "POO C#\\Models\\Album.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:49:58.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\Menu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:37:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExitMenu.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\ExitMenu.cs",
+              "RelativeDocumentMoniker": "POO C#\\Menus\\ExitMenu.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Menus\\ExitMenu.cs",
+              "RelativeToolTip": "POO C#\\Menus\\ExitMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:01:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PodCast.cs",
               "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\PodCast.cs",
               "RelativeDocumentMoniker": "POO C#\\Models\\PodCast.cs",
               "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\PodCast.cs",
               "RelativeToolTip": "POO C#\\Models\\PodCast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T23:49:57.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Band.cs",
-              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Band.cs",
-              "RelativeDocumentMoniker": "POO C#\\Models\\Band.cs",
-              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Band.cs",
-              "RelativeToolTip": "POO C#\\Models\\Band.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T22:11:48.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Album.cs",
-              "RelativeDocumentMoniker": "POO C#\\Models\\Album.cs",
-              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Album.cs",
-              "RelativeToolTip": "POO C#\\Models\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:49:58.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Music.cs",
               "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Music.cs",
               "RelativeDocumentMoniker": "POO C#\\Models\\Music.cs",
               "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Music.cs",
               "RelativeToolTip": "POO C#\\Models\\Music.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:43:08.422Z"
+              "WhenOpened": "2025-04-24T20:43:08.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "POO C#.csproj",
-              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\POO C#.csproj",
-              "RelativeDocumentMoniker": "POO C#\\POO C#.csproj",
-              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\POO C#.csproj",
-              "RelativeToolTip": "POO C#\\POO C#.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T16:45:52.573Z"
+              "DocumentIndex": 13,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Evaluation.cs",
+              "RelativeDocumentMoniker": "POO C#\\Models\\Evaluation.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Evaluation.cs",
+              "RelativeToolTip": "POO C#\\Models\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:27:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Episode.cs",
+              "RelativeDocumentMoniker": "POO C#\\Models\\Episode.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Models\\Episode.cs",
+              "RelativeToolTip": "POO C#\\Models\\Episode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:57:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRatable.cs",
+              "DocumentMoniker": "C:\\Development\\C#\\POO C#\\POO C#\\Interfaces\\IRatable.cs",
+              "RelativeDocumentMoniker": "POO C#\\Interfaces\\IRatable.cs",
+              "ToolTip": "C:\\Development\\C#\\POO C#\\POO C#\\Interfaces\\IRatable.cs",
+              "RelativeToolTip": "POO C#\\Interfaces\\IRatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:53:17.208Z",
+              "EditorCaption": ""
             }
           ]
         }

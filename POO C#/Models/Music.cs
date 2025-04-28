@@ -1,4 +1,6 @@
-﻿public class Music
+﻿namespace POO_C_.Models;
+
+internal class Music
 {
     public string Title { get; }
     public Band Artist { get; }

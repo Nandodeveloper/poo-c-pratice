@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NHivNHD+UF0=",
+  "dgSpecHash": "ap3CAYIQdTQ=",
   "success": true,
   "projectFilePath": "C:\\Development\\C#\\POO C#\\POO C#\\POO C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

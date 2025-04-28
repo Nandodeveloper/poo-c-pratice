@@ -1,19 +1,37 @@
-﻿public class Band
-{
-    private List<Album> albums = new List<Album>();
-    public string Name { get; set; }
-    public string Genre { get; set; }
+﻿using POO_C_.Interfaces;
 
-    public Band(string name, string genre)
+namespace POO_C_.Models;
+
+internal class Band : IRatable
+{
+    private List<Album> albums = new();
+    private List<Evaluation> rates = new();
+    public Band(string name)
     {
         Name = name;
-        Genre = genre;
     }
+    public string Name { get; set; }
+    public string? Resume { get; set; }
+    public double Average
+    {
+        get
+        {
+            if (rates.Count == 0)
+            {
+                return 0;
+            } 
+            else
+            {
+                return rates.Average(evaluation => evaluation.Rate);
+            }
+        }
+    }
+    public List<Album> Albums => albums;
+
     public void AddAlbum(Album album)
     {
         albums.Add(album);
     }
-
     public void ViewDiscography()
     {
         Console.WriteLine($"{Name} band discography:");
@@ -21,5 +39,10 @@
         {
             Console.WriteLine($"Álbum: {album.Name} ({album.Duration}s)\n");
         }
+    }
+
+    public void Rate(Evaluation rate)
+    {
+        rates.Add(rate);
     }
 }

@@ -12,3 +12,7 @@ C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\refint\POO C#.dll
 C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\POO C#.pdb
 C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\POO C#.genruntimeconfig.cache
 C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\ref\POO C#.dll
+C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\POO C#.sourcelink.json
+C:\Development\C#\POO C#\POO C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\POO C#.csproj.AssemblyReference.cache
+C:\Development\C#\POO C#\POO C#\obj\Debug\net8.0\POO C#.csproj.Up2Date

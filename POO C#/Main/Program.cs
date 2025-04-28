@@ -1,41 +1,44 @@
-﻿Band queen = new Band("Queen", "Rock");
+﻿using System.Text;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using POO_C_.Menus;
+using POO_C_.Models;
 
-Album queenAlbum = new Album("A night at the opera");
+Dictionary<string, Band> bandsList = new();
 
-Music music1 = new Music("Love of my life", queen)
+Dictionary<int, Menu> options = new();
+options.Add(1, new RegisterBandMenu());
+options.Add(2, new RegisterAlbumMenu());
+options.Add(3, new ViewAllBandsMenu());
+options.Add(4, new RateBandMenu());
+options.Add(5, new RateAlbumMenu());
+options.Add(6, new DisplayDetailsMenu());
+options.Add(0, new ExitMenu());
+
+void DisplayMenuOptions()
 {
-    Duration = 213,
-    IncluedInPlan = true,
-};
+    Console.WriteLine("Welcome to ScreenSound!");
+Console.WriteLine("\n1- Register band");
+Console.WriteLine("2- Register a band's album");
+Console.WriteLine("3- View all bands");
+Console.WriteLine("4- Rate a band");
+Console.WriteLine("5- Rate an album");
+Console.WriteLine("6- View a band's details");
+Console.WriteLine("0- Exit\n");
 
-Music music2 = new Music("Bohemian Rhapsody", queen)
+Console.Write("Enter your option: ");
+string keyString = Console.ReadLine();
+int key = int.Parse(keyString);
+Console.WriteLine();
+if (options.ContainsKey(key))
 {
-    Duration = 354,
-    IncluedInPlan = true,
-};
-
-queenAlbum.AddMusic(music1);
-queenAlbum.AddMusic(music2);
-queen.AddAlbum(queenAlbum);
-
-music1.ViewTechnicalSheet();
-music2.ViewTechnicalSheet();
-queenAlbum.DisplayMusics();
-queen.ViewDiscography();
-
-PodCast podcast = new PodCast("PodPah", "Igão e Mítico");
-Episode episode1 = new Episode(1, "Conversa com o Lactea")
+    Menu menu = options[key];
+    menu.Exe(bandsList);
+    if (key > 0) DisplayMenuOptions();
+}
+else
 {
-    Duration = 120,
-};
-Episode episode2 = new Episode(2, "Conversa com o Monark e Igor")
-{
-    Duration = 180,
-};
-episode1.AddGuests("Lactea");
-episode2.AddGuests("Monark");
-episode2.AddGuests("Igor");
-
-podcast.AddEpisode(episode1);
-podcast.AddEpisode(episode2);
-podcast.DisplayDetails();
+    Console.WriteLine("Invalid option. Please try again.");
+}
+}
+DisplayMenuOptions();

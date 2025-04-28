@@ -1,4 +1,6 @@
-﻿public class Episode
+﻿namespace POO_C_.Models;
+
+internal class Episode
 {
     private List<string> guests = new();
     public string Title { get; }
